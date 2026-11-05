@@ -1,4 +1,4 @@
-# Catalina Resampler
+# Catalina Resampler - EXPERIMENTAL
 
 Standalone UTAU command-line resampler for the Kamafeu NSF HiFi-GAN engine. The binary is distributed separately from Kamafeu Studio and can be installed from its Additional Packages manager.
 
