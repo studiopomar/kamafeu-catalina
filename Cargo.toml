@@ -1,0 +1,13 @@
+[package]
+name = "kamafeu-catalina"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[[bin]]
+name = "catalina"
+path = "src/main.rs"
+
+[dependencies]
+hound = "3.5"
+kamafeu = { git = "https://github.com/studiopomar/kamafeu", default-features = false }
